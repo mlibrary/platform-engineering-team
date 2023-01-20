@@ -19,11 +19,12 @@ To lint your markdown run `./lint_it`
 1. Make a draft pull request for the branch. If there's a corresponding Jira
  Issue, link to it.
 1. Make a file for your ADR.
+    * Copy `adr-template.md` to your preferred file name.
     * Don't put a number on the file name.
-    * Don't put a number on the header.
     * Use snake case 🐍 for the file name.
+    * Don't put a number on the header.
 1. When it's ready for review by the team, change the pull request to ready for review.
-1. When the ADR is merged in:
-    * The file name is given a number
-    * The header is given a number
-    * A date is added to the file
+1. When the ADR is merged in manually make a chore commit that:
+    * Adds the appropriate number to the filename
+    * Adds the appropriate number to the header
+    * Verifies that the Status section has the correct information

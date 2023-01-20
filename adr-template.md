@@ -14,10 +14,11 @@ sentences, with active voice. "We will …"
 
 ## Status
 
-A decision may be "proposed" if the project stakeholders haven't agreed with it
-yet, or "accepted" once it is agreed. If a later ADR changes or reverses a
-decision, it may be marked as "deprecated" or "superseded" with a reference to
-its replacement.
+Proposed
+
+| Month 1, YYYY |
+|-----------------|
+| *Status* <br> Proposed on YYYY-MM-DD |
 
 ## Consequences
 
