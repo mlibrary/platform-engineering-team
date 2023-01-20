@@ -4,6 +4,14 @@ ADRs for the Platform Engineering Team
 
 [What is an ADR](https://adr.github.io/madr/)
 
+## Workstation setup
+
+1. Clone the repository
+1. `cd` into the repsitory
+1. Run `./init.sh`
+
+To lint your markdown run `./lint_it`
+
 ## Workflow for adding an ADR
 
 1. Make a branch with a relevant name. Use kebab case 🍢 because it will be a
