@@ -18,7 +18,7 @@ Proposed
 
 | Month 1, YYYY |
 |-----------------|
-| *Status* <br> Proposed on YYYY-MM-DD |
+| **Status** <br> Proposed on YYYY-MM-DD |
 
 ## Consequences
 

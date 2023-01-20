@@ -19,7 +19,7 @@ To lint your markdown run `./lint_it`
 1. Make a draft pull request for the branch. If there's a corresponding Jira
  Issue, link to it.
 1. Make a file for your ADR.
-    * Copy `adr-template.md` to your preferred file name.
+    * Copy `adr_template.md` to your preferred file name.
     * Don't put a number on the file name.
     * Use snake case 🐍 for the file name.
     * Don't put a number on the header.
