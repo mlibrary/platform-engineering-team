@@ -29,9 +29,9 @@ To lint your markdown run `./lint_it`
     * Adds the appropriate number to the header
     * Verifies that the Status section has the correct information
 
-## Info on Linting
+## Info on linting
 
 We are using [mdl](https://github.com/markdownlint/markdownlint). We use almost
 all of [the default
 rules](https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md).
-The rule we don't use is MD0033. Inline HTML is allowed.
+The rule we don't use is MD0033. Inline HTML **is** allowed.
