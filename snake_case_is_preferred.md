@@ -11,7 +11,7 @@ some contexts (like programming languages) different case styles do imply
 different meanings. Sticking with one case style removes that unnecessary
 ambiguity.
 
-An argument was made that we should choose kebab-case because it is most common
+An argument was made that we should choose kebab-case because it is the most common
 style. It is more often true that underscores are forbidden or that underscores
 are the less-commonly-used separator.
 
