@@ -30,7 +30,7 @@ Design System. We did not choose this name because:
    way: "DS"
 1. We have even more projects that start with "d" like "Deep Blue" and "Deep
    Blue Data" and "Deep Blue Docs".
-1. The word "deployment" is a particular Kubernetes term, so it's use here as a
+1. The word "deployment" is a particular Kubernetes term, so its use here as a
    term for everything that this group does is confusing.
 1. This group's scope may include more than "deploying" systems, although the
    Design System is also more expansive than the name suggests so this may be
@@ -54,7 +54,7 @@ team." We did not choose this name because:
 * the activity this team is doing: *Platform Engineering*
 * the group of people doing that activity: *The Platform Engineering Team*
 * the collective output/work of the team: *The work of The Platform Engineering
-  Team* i.e. There is no official name
+  Team* i.e. there is no official name
 
 We chose *Platform Engineering* because that is the industry term for the work
 this group is doing. Adding the word "team" to describe the group of people is
