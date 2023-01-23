@@ -35,7 +35,7 @@ work on the project simultaneously.
 
 ## Decision
 
-We will use Any/Architectual Decision Records to record decisions made by the
+We will use Any/Architectural Decision Records to record decisions made by the
 Platform Engineering Team.
 
 ## Status
