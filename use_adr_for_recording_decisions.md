@@ -22,6 +22,10 @@ comfortable using `git` repositories. Because many of the patterns and
 decisions will affect multiple projects, it makes more sense for them to be
 collected in their own repository than split up among projects.
 
+`git` is a particularly good tool for maintaining ADRs because of the
+pull-request workflow, the file history, and the ability for multiple people to
+work on the project simultaneously.
+
 ### Information about ADRs
 
 * Michael Nygard's ["Documententing Architectual
