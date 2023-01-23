@@ -40,8 +40,8 @@ Examples of strings that **should be** in kebab-case 🍢:
 camelCase 🐪 should only be used when other conventions call for it (ex: ruby
 class names)
 
-Separator style mixing is forbidden. (ex: **never** do
-`kebab-snake_camelCase`)
+Separator style mixing should be avoided. (ex: unless other conventions call
+for it don't do something like  `kebab-snake_camelCase`)
 
 ## Status
 
