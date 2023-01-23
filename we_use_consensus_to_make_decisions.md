@@ -32,9 +32,9 @@ or rejected.
 A proposal is **approved** when it has received 0 and +1 votes from all members of
 the team.
 
-A proposal is **approved** when it has received only votes of 0 or +1 for 3 days
-even if not every member has voted. This is a "lazy consensus" approval. Lazy
-consensus approvals should be announced in the `#platform_engineering_team`
+A proposal should include a date at which point it can be **approved** as long
+as it has received only votes of 0 or +1. This is a "lazy consensus" approval.
+Lazy consensus approvals should be announced in the `#platform_engineering_team`
 Slack channel with a link to the original proposal thread.
 
 A -1 from any member on a proposal is a veto. If a proposal has an -1 votes it
