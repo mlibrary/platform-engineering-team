@@ -40,6 +40,10 @@ Slack channel with a link to the original proposal thread.
 A -1 from any member on a proposal is a veto. If a proposal has an -1 votes it
 cannot be approved until the disapproving member has rescinded their -1.
 
+A -1 can be used as a way to halt "lazy consensus" approval even when the voter
+would otherwise approve the proposal. When the -1 is rescinded the "lazy
+consensus" clock can start again.
+
 Proposals can be voted on in a live meeting. The corresponding Slack thread
 should include the results of the vote.
 
