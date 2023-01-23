@@ -27,7 +27,7 @@ collected in their own repository than split up among projects.
 * Michael Nygard's ["Documententing Architectual
   Decisions"](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
   article
-* [Markdown Any Decisions Records]("https://adr.github.io/madr/#overview")
+* [Markdown Any Decisions Records](https://adr.github.io/madr/#overview)
 
 ## Decision
 
