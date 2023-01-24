@@ -60,21 +60,23 @@ We chose *Platform Engineering* because that is the industry term for the work
 this group is doing. Adding the word "team" to describe the group of people is
 straight-forward to understand.
 
-We are choosing **not** to give a name to the
-collective output because it doesn't need an official branded name. People will
-know to look for the work of the team under the name "Platform Engineering". We
-can talk about the work without referring to the collective output of the team.
+We are choosing **not** to give a name to the collective output because it
+doesn't need an official branded name. People will know to look for the work of
+the team under the name "Platform Engineering". We can talk about the work
+without referring to the collective output of the team. Our
+[Charter]("link-to-be-added-later") describes the collective activity of the
+team.
 
 That said, @niquerio will probably refer to it as "The compendium of ways in
 which LIT applications are put out into the world".
 
 ## Status
 
-Proposed
+Draft
 
 | January 23, 2023 |
 |-----------------|
-| **Status** <br> Proposed on 2023-01-23 |
+| **Status** <br> Drafted on 2023-01-23 |
 
 ## Consequences
 
