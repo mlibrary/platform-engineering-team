@@ -28,19 +28,19 @@ work on the project simultaneously.
 
 ### Information about ADRs
 
-* Michael Nygard's ["Documententing Architectual
+* Michael Nygard's ["Documententing Architecture
   Decisions"](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
   article
 * [Markdown Any Decisions Records](https://adr.github.io/madr/#overview)
 
 ## Decision
 
-We will use Any/Architectural Decision Records to record decisions made by the
+We will use Any Decision Records (ADRs) to record decisions made by the
 Platform Engineering Team.
 
 ## Status
 
-Proposed
+Draft
 
 | January 23, 2023 |
 |-----------------|
