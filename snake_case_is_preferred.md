@@ -45,11 +45,11 @@ for it don't do something like  `kebab-snake_camelCase`)
 
 ## Status
 
-Proposed
+Draft
 
 | January 23, 2023 |
 |-----------------|
-| **Status** <br> Proposed on 2023-01-23 |
+| **Status** <br> Drafted on 2023-01-23 |
 
 ## Consequences
 
