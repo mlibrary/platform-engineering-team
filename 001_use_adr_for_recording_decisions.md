@@ -1,4 +1,4 @@
-# Use ADRs for recording decisions
+# 001 Use ADRs for recording decisions
 
 ## Context
 
@@ -40,11 +40,12 @@ Platform Engineering Team.
 
 ## Status
 
-Draft
+Approved
 
-| January 23, 2023 |
-|-----------------|
-| **Status** <br> Drafted on 2023-01-23 |
+| Date             | Summary  |
+|------------------|----------|
+| January 23, 2023 |  Drafted on 2023-01-23 |
+| January 25, 2023 | Approved on 2023-01-25 |
 
 ## Consequences
 
