@@ -1,4 +1,4 @@
-# Snake_case (i.e. use of underscores as a word separator) is preferred
+# 002 Snake_case (i.e. use of underscores as a word separator) is preferred
 
 ## Context
 
@@ -47,9 +47,10 @@ for it don't do something like  `kebab-snake_camelCase`)
 
 Draft
 
-| January 23, 2023 |
-|-----------------|
-| **Status** <br> Drafted on 2023-01-23 |
+| Date             | Summary |
+|------------------|---------|
+| January 23, 2023 | Drafted on 2023-01-23 |
+| January 25, 2023 | Drafted on 2023-01-25 |
 
 ## Consequences
 
