@@ -45,7 +45,7 @@ for it don't do something like  `kebab-snake_camelCase`)
 
 ## Status
 
-Draft
+Approved
 
 | Date             | Summary |
 |------------------|---------|
