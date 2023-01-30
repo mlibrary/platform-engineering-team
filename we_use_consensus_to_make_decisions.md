@@ -3,7 +3,7 @@
 ## Context
 
 The Platform Engineering Team is a group that makes decisions. The team values
-collaboration, so make decisions by consensus is a natural extension of that
+collaboration, so making decisions by consensus is a natural extension of that
 value.
 
 When making decisions by consensus it can be unclear when a proposal has been
@@ -12,7 +12,7 @@ also lead to unnecessary discussion. This ambiguity and friction with decision
 making can then lead to apathy about the project and/or dissolution of the
 consensus model for approval.
 
-The Apache foundation has a few tools for making decisions by consensus:
+The Apache Software Foundation has a few tools for making decisions by consensus:
 
 1. [Voting with a simple -1, 0, +1
    system](https://apache.org/foundation/voting.html)
@@ -20,8 +20,8 @@ The Apache foundation has a few tools for making decisions by consensus:
 
 ## Decision
 
-When we vote on an ADR proposal we will use the Apache foundation's -1, 0 +1 voting
-system.
+When we vote on an ADR proposal we will use -1, 0, +1 voting, similar to the
+Apache Software Foundation's model.
 
 A proposal is **approved** when it has received 0 and +1 votes from all members of
 the team.
@@ -43,8 +43,8 @@ After enough discussion has taken place, the status "Draft" is updated to
 "lazy consensus" approval date and time, and a call for a vote.
 
 A -1 from any member on a proposal is a veto. If a proposal has any -1 votes it
-is put back in "Draft" mode to be ammended. We are undecided on what to
-do with proposals that can't be ammended.
+is put back in "Draft" mode to be amended. We are undecided on what to
+do with proposals that can't be amended.
 
 Proposals can be voted on in a live meeting. The corresponding Slack thread
 should include the results of the vote.
